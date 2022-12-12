@@ -1,1 +1,18 @@
 # goruntu_isleme_odev
+
+Yukarıda bulunan görüntülerin isimleri 0-9 arasındadır. Öğrenci numaranızın son rakamına göre ilgili görüntüyü seçiniz. (Örnek: öğrenci numarası xxxxxxxxxxx32 ise 2.jpg isimli görüntüyü kullanacaksınız)
+
+Görüntüyü indirdikten sonra aşağıdaki görüntü işleme filtrelerinden bir tanesini uygulayıp raporunu meylence@yandex.com mail adresine atınız.
+Son rapor gönderim tarihi: 02/01/2023.
+
+GÖRÜNTÜ İŞLEME FİLTRELERİ
+
+- Ortlama Filtre
+- Medyan Filtre
+- Gaussian Filtre
+- Sobel Filtre
+- Laplacian Filtre
+- Konservatif Filtre
+- Prewitt Filtre
+- Fourier Dönüşüm Filtreleme yöntem 
+
