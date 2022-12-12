@@ -17,11 +17,11 @@ GÖRÜNTÜ İŞLEME FİLTRELERİ
 - Fourier Dönüşüm Filtreleme yöntem 
 
 
-Öğrenci numarasının son iki hanesi 01 ve 10 arası olanlar Ortlama Filtre ve Fourier Dönüşüm Filtreleme yöntem 
-02 ve 09 olanlar Medyan ve Prewitt 
-03 ve 08 olanlar Gaussian ve Konservatif
-04 ve 07 olanlar Sobel ve Laplacian
-05 ve 06 olanlar Prewitt ve Gaussian 
+Öğrenci numarasının son rakamı 0 ve 9 arası olanlar Ortlama Filtre ve Fourier Dönüşüm Filtreleme yöntem 
+1 ve 8 olanlar Medyan ve Prewitt 
+2 ve 7 olanlar Gaussian ve Konservatif
+3 ve 6 olanlar Sobel ve Laplacian
+4 ve 5 olanlar Prewitt ve Gaussian 
 
 filtre uygulayacaktır.
 
