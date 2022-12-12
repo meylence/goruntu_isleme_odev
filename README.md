@@ -16,3 +16,12 @@ GÖRÜNTÜ İŞLEME FİLTRELERİ
 - Prewitt Filtre
 - Fourier Dönüşüm Filtreleme yöntem 
 
+
+Öğrenci numarasının son iki hanesi 01 ve 10 arası olanlar Ortlama Filtre ve Fourier Dönüşüm Filtreleme yöntem 
+02 ve 09 olanlar Medyan ve Prewitt 
+03 ve 08 olanlar Gaussian ve Konservatif
+04 ve 07 olanlar Sobel ve Laplacian
+05 ve 06 olanlar Prewitt ve Gaussian 
+
+filtre uygulayacaktır.
+
