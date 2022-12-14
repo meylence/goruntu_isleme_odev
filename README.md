@@ -2,7 +2,7 @@
 
 Yukarıda bulunan görüntülerin isimleri 0-9 arasındadır. Öğrenci numaranızın son rakamına göre ilgili görüntüyü seçiniz. (Örnek: öğrenci numarası xxxxxxxxxxx32 ise 2.jpg isimli görüntüyü kullanacaksınız)
 
-Görüntüyü indirdikten sonra aşağıdaki görüntü işleme filtrelerinden bir tanesini uygulayıp raporunu meylence@yandex.com mail adresine atınız.
+Görüntüyü indirdikten sonra aşağıdaki görüntü işleme filtrelerinden iki tanesini uygulayıp raporunu meylence@yandex.com mail adresine atınız.
 Son rapor gönderim tarihi: 02/01/2023.
 
 GÖRÜNTÜ İŞLEME FİLTRELERİ
