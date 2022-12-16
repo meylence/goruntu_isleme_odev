@@ -9,9 +9,9 @@ Görüntü işleme filtreleri aşağıdaki kurallara göre dağıtılmıştır.
 
 - Öğrenci numarasının son rakamı 0 ve 9 olanlar Ortlama Filtre ve Fourier Dönüşüm Filtreleme;
 - Öğrenci numarasının son rakamı 1 ve 8 olanlar Medyan ve Prewitt Filtreleme;
-- Öğrenci numarasının son rakamı 2 ve 7 olanlar Ortlama Gaussian ve Konservatif Filtreleme;
-- Öğrenci numarasının son rakamı 3 ve 6 olanlar Ortlama Sobel ve Laplacian Filtreleme;
-- Öğrenci numarasının son rakamı 4 ve 5 olanlar Ortlama Prewitt ve Gaussian Filtreleme;
+- Öğrenci numarasının son rakamı 2 ve 7 olanlar  Gaussian ve Konservatif Filtreleme;
+- Öğrenci numarasının son rakamı 3 ve 6 olanlar  Sobel ve Laplacian Filtreleme;
+- Öğrenci numarasının son rakamı 4 ve 5 olanlar  Prewitt ve Gaussian Filtreleme;
 
 uygulayacaktır.
 
