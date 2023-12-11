@@ -3,7 +3,7 @@
 Yukarıda bulunan görüntülerin isimleri 0 ile 9 arasındaki rakamlardan oluşmaktadır. Ödevde sizden istenen öğrenci numaranızın son rakamına denk gelen görüntüyü (Örnek: öğrenci numaranız XXXXXXXXX3 ise sizin kullanacağınız görüntü "3.jpg" isimli dosyadır.)  aşağıda açıklanan şartlara göre uygun filtreleri uygulayarak bir rapor hazırlamanızdır. 
 
 Görüntüyü indirdikten sonra aşağıdaki görüntü işleme filtrelerinden iki tanesini uygulayıp raporunu meylence@yandex.com mail adresine atınız.
-Son rapor gönderim tarihi: 02/01/2023.
+Son rapor gönderim tarihi: 12/01/2024.
 
 Görüntü işleme filtreleri aşağıdaki kurallara göre dağıtılmıştır.
 
